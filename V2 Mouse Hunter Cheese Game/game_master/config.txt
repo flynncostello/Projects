@@ -1,0 +1,7 @@
+/home/files/
+./history.txt
+./list.txt  
+./animals.txt  
+./names.txt
+/home/samples/
+./count_me.txt
