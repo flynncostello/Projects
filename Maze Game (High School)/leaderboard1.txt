@@ -1,0 +1,6 @@
+Patrick, 10.2
+Flynn, 4.8
+Lachy, 4.6
+rocco, 30.3
+ham, 518.4
+nikita, 31.0
