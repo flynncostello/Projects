@@ -1,0 +1,45 @@
+Daniella$Shrew$21/02/2002$Saudi Arabia$Other$8 Cresent Road, Avandail, Auburn$Abroad$Third Year$2025$COMP1020, BUSS1030, INFO1110, INFO1120
+Oliver$Smith$03/06/2003$Australia$Male$6 Kent Street, Glen Iris, Melbourne$Domestic$Fifth Year$2028$COMP2129,COMP2022,INFO3404,BUSS1020
+Isabella$Brown$19/01/2005$Australia$Female$17 Queen Street, Norwood, Adelaide$Domestic$Fourth Year$2025$COMP2017,INFO1103,MATH1003,BUSS1000
+Mia$Garcia$02/08/2003$Australia$Female$3 Thompson Street, Surry Hills, Sydney$Domestic$Fifth Year$2028$COMP2129,COMP2022,INFO3404,BUSS1020
+Evelyn$Miller$14/06/2004$Australia$Female$18 Douglas Street, Toorak, Melbourne$Domestic$Fourth Year$2025$COMP2017,INFO1103,MATH1003,BUSS1000
+Aiden$Davis$22/12/2003$Australia$Male$12 Ridge Road, Glen Waverley, Melbourne$Domestic$Fourth Year$2025$COMP2017,INFO1103,MATH1003,BUSS1000
+Lucas$Garcia$09/04/2004$Australia$Male$4 Russell Street, East Brisbane, Brisbane$Domestic$Fifth Year$2028$COMP2129,COMP2022,INFO3404,BUSS1020
+Aria$Jones$08/08/2003$Australia$Female$5 Wilson Street, Paddington, Sydney$Domestic$Fourth Year$2025$COMP2017,INFO1103,MATH1003,BUSS1000
+Logan$Thompson$06/10/2003$USA$Male$18 Hunter Street, Cambridge, Massachusetts$Abroad$Fourth Year$2025$COMP2017,INFO1103,MATH1003,BUSS1000
+Harper$Anderson$05/12/2004$Australia$Female$22 Acacia Avenue, Stirling, Perth$Domestic$Fifth Year$2028$COMP2129,COMP2022,INFO3404,BUSS1020
+Ella$Johnson$28/09/2003$Australia$Female$15 Belgrave Road, Balwyn, Melbourne$Domestic$Fourth Year$2025$COMP2017,INFO1103,MATH1003,BUSS1000
+Mason$Wilson$11/11/2003$USA$Male$15 Chestnut Street, Boston, Massachusetts$Abroad$Fourth Year$2025$COMP2017,INFO1103,MATH1003,BUSS1000
+Addison$Thompson$07/06/2004$Australia$Female$14 Rothwell Street, Glenside, Adelaide$Domestic$Fourth Year$2025$COMP2017,INFO1103,MATH1003,BUSS1000
+Lee$Smith$05/07/2001$Australia$Male$12 Main St, Melbourne$Domestic$Second Year$2023$COMP2129, MATH2069, ELEC2141, COMP2521
+Ashley$Nguyen$06/09/2003$Abroad$Female$3 Hillside Ave, Los Angeles$International$First Year$2022$PSYC1001, ANAT2006, STAT2911
+John$Kim$10/11/2000$Australia$Male$45 Princes Hwy, Wollongong$Domestic$Fourth Year$2024$ENGG1811, MGMT1001, FINC2011, MARK1012
+Jamie$Patel$12/04/2002$Abroad$Other$17 Oxford St, London$International$Third Year$2022$ACCT1501, ECON1101, ECON1203, LAWS1091
+David$Lee$09/02/2003$Australia$Male$9 High St, Perth$Domestic$Second Year$2023$COMP2511, COMP1531, MATH1141, ELEC1111
+Alex$Wang$01/06/2001$Abroad$Male$27 Rue du Faubourg Saint-Jacques, Paris$International$First Year$2022$CHEM1011, CHEM1111, COMP1511
+Sarah$Garcia$02/03/2002$Australia$Female$16 Bridge Rd, Sydney$Domestic$Third Year$2024$PHYS1220, MATH1231, COMP2521, ELEC2133
+Tom$Nguyen$07/12/2000$Abroad$Male$1826 Hilltop Rd, Palo Alto$International$Fourth Year$2022$ECON1101, FINC2011, ACCT1501, LAWS1091
+Emily$Chen$03/08/2001$Australia$Female$34 Main St, Adelaide$Domestic$Second Year$2023$MATH1131, COMP1917, PHYS1131, ELEC1111
+Liam$Tran$11/01/2002$Abroad$Male$18 Hillcrest Ave, Toronto$International$First Year$2022$COMP1511, COMP1521, MATH1231
+Lisa$Patel$08/06/2000$Australia$Female$23 Park Rd, Brisbane$Domestic$Fourth Year$2024$MGMT1001, MARK1012, ECON1101, ACCT1511
+Kevin$Gupta$04/02/2002$Abroad$Male$123 Main St, New York$International$Third Year$2022$COMP2129, ELEC2141, MATH2069
+Sophie$Lee$12/10/2001$Australia$Female$6 Kingsford Smith Dr, Gold Coast$Domestic$Second Year$2023$MATH1141, COMP2521, PHYS1131, ELEC1111
+Charlie$Garcia$01/09/2000$Abroad$Other$21 Rue Saint-Antoine, Lyon$International$First Year$2022$COMP1511, COMP1521, MATH1231
+White$Wilson$10/10/2000$Australia$Female$15 Oxford Street, Darlinghurst, Sydney$Abroad$Second Year$2024$PHYS1111, CHEM1101
+Patel$Kumar$05/03/2003$India$Male$3/42 Greens Road, Dandenong, Melbourne$Domestic$First Year$2022$COMP1511, MATH1131
+Gonzalez$Martinez$08/08/2002$Mexico$Female$1241 Portage Avenue, Winnipeg, Manitoba$Abroad$Third Year$2023$MATH1141, MATH1231, ECON1101
+Kim$Park$02/02/2001$South Korea$Male$316-5 Sinsa-dong, Gangnam-gu, Seoul$Abroad$Fourth Year$2024$ARTS2090, MGMT1001, MGMT1002
+Jones$Thompson$17/12/2002$Australia$Other$12 Long Street, Cleveland, Brisbane$Domestic$First Year$2022$COMP1521, MATH1141
+Wu$Chen$23/06/2000$China$Female$19 Tenggol Road, Taman Seputeh, Kuala Lumpur$Abroad$Third Year$2023$COMP2521, COMP9315, MATH2801
+Yamamoto$Suzuki$29/01/2002$Japan$Male$3 Chome-10-10 Kitakagaya, Sumiyoshi Ward, Osaka$Abroad$Second Year$2024$COMP1511, COMP1521, ECON1101
+Singh$Malhotra$11/05/2001$India$Male$21C/2, DLF Phase-1, Gurgaon$Abroad$First Year$2022$COMP1521, MATH1131
+Garcia$Hernandez$03/09/2000$Spain$Male$Calle Real 3, 28391 Valdemoro, Madrid$Abroad$Third Year$2023$MATH1131, MATH1231, ECON1101
+Brown$Taylor$14/06/2003$Australia$Male$44 Flinders Street, Adelaide$Domestic$Second Year$2024$PHYS1121, MATH1131
+Li$Zhang$18/11/2002$China$Other$1202-2 Shuangjing Bridge East, Chaoyang District, Beijing$Abroad$First Year$2022$COMP1511, MATH1131
+Rodriguez$Gonzalez$20/04/2001$Mexico$Female$8th Street, Calle 63, Colonia Centro, Campeche$Abroad$Fourth Year$2024$ECON1101, MATH1241, MATH1251
+Nguyen$Tran$28/09/2000$Vietnam$Male$1201 Nguyen Van Linh Street, Tan Phong Ward, District 7, Ho Chi Minh City$Abroad$Third Year$2023$COMP2521, COMP9331, MATH2801
+Robinson$Baker$09/07/2002$Australia$Female$5 Jones Street, Ultimo, Sydney$Domestic$First Year$2022$COMP1511, MATH1131
+Dave$Sanders$11/12/2003$Australia$Male$38 Waraginah, Newport$Domestic$Second Year$2027$BUSS1030, COMP1020
+Zac$Downs$11/12/2003$Australia$Male$2 Abignail Street, West Ryde$Domestic$Second Year$2027$BUSS1050, INFO1200, COMP2090
+Flynn$Costello$11/10/2004$Australia$Male$3 Abignail Street, West Ryde$Domestic$First Year$2028$BUSS1000, BUS1020, INFO1030
+Dan$Daniels$11/12/2004$Azerbijan$Male$2 Banjo street, daniel$Domestic$First Year$2027$INFO1110
